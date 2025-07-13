@@ -1,0 +1,12 @@
+Refine the following alt-text based on the rules below. Only remove speculative, incorrect, or redundant information. DO NOT shorten or delete important visible elements.
+
+Your instructions:
+1. Do NOT add any new information.
+2. DO preserve all clearly visible objects, people, environments, and actions.
+3. DO remove any emotional language, intent, or analysis that cannot be seen.
+4. DO NOT remove elements that are clearly part of the visible scene (e.g. background buildings, signage, surroundings).
+5. Rephrase or shorten only if it improves clarity or removes redundant phrases (e.g., repeats of the caption or abstract).
+6. The refined alt-text should stay within 150 characters and end with a period.
+7. Return only the refined alt-text. No explanations.
+
+Now, apply these rules to refine the given alt-text. Return ONLY the corrected alt-text. Do NOT provide explanations.
