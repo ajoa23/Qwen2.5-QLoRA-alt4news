@@ -1,0 +1,27 @@
+# --- Datenaufbereitung & Allgemein ---
+pandas
+numpy
+requests
+Pillow
+python-dotenv
+tqdm
+
+# --- Modell & Training ---
+torch
+transformers
+datasets
+peft
+trl
+bitsandbytes
+qwen-vl-utils
+
+# --- Evaluation ---
+nltk
+scikit-learn
+
+# --- Streamlit App ---
+streamlit
+
+# --- Sonstiges ---
+wandb
+pytz
