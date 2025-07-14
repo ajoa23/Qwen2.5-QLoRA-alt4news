@@ -41,6 +41,11 @@ Bitte folgen Sie der dortigen Anleitung zum Download und zur lokalen Ablage der 
 Alternativ steht ein synthetisch augmentierter Datensatz direkt auf Hugging Face zur Verfügung:  
 https://huggingface.co/datasets/Alex23o4/n24news_sample_synthetic_alttext_reduced
 
+## QLoRA Adapter
+
+Der für die Alt-Text-Generierung feinjustierte QLoRA-Adapter ist hier verfügbar:  
+https://huggingface.co/Alex23o4/Qwen2.5-VL-7B_news_alttext
+
 ## Workflow
 
 1. **Datenaufbereitung**  
