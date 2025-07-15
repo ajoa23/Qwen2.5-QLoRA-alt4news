@@ -39,7 +39,7 @@ https://github.com/billywzh717/N24News
 Bitte folgen Sie der dortigen Anleitung zum Download und zur lokalen Ablage der Daten.
 
 Alternativ steht ein synthetisch augmentierter Datensatz direkt auf Hugging Face zur Verfügung:  
-https://huggingface.co/datasets/Alex23o4/n24news_sample_synthetic_alttext_reduced
+[https://huggingface.co/datasets/Alex23o4/n24news_sample_synthetic_alttext_reduced](https://huggingface.co/datasets/Alex23o4/n24news_sample_synthetic_alttext_reduced)
 
 ## QLoRA Adapter
 
